@@ -9,5 +9,10 @@ turnLeft()
 goForward(100)
 turnRight()
 
+var object = {
+  
+}
+
 var name = "Q"
 console.log(name)
+
